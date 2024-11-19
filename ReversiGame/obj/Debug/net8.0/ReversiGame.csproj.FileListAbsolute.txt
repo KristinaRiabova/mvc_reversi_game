@@ -1,0 +1,14 @@
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\bin\Debug\net8.0\ReversiGame.deps.json
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\bin\Debug\net8.0\ReversiGame.dll
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\bin\Debug\net8.0\ReversiGame.pdb
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.AssemblyInfoInputs.cache
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.AssemblyInfo.cs
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.csproj.CoreCompileInputs.cache
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.dll
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\refint\ReversiGame.dll
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.pdb
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ref\ReversiGame.dll
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\bin\Debug\net8.0\ReversiGame.exe
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\bin\Debug\net8.0\ReversiGame.runtimeconfig.json
+D:\task\taskrkr46913892\assignment-2-more-on-mvc-super-main\ReversiGame\obj\Debug\net8.0\ReversiGame.genruntimeconfig.cache
